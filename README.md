@@ -43,11 +43,11 @@ I love learning and understanding how things work from the inside, so during my 
 
 ## 🛠️ Skills
 
-**Programming:** Python · Java · C++ · C · C# · SQL
-**AI & Data:** Hugging Face Transformers · fine-tuning · text classification · model evaluation · NumPy · Google Colab
-**Graphics:** OpenGL · GLSL shaders · ImGui · 3D math (transformations, projections, normals, UV)
-**Systems:** Linux · Bash · multithreading and processes in C · client-server and sockets
-**Engineering:** Git & GitHub · Maven · CMake · OOP · UML · software development lifecycle
+- **Programming:** Python · Java · C++ · C · C# · SQL
+- **AI & Data:** Hugging Face Transformers · fine-tuning · text classification · model evaluation · NumPy · Google Colab
+- **Graphics:** OpenGL · GLSL shaders · ImGui · 3D math (transformations, projections, normals, UV)
+- **Systems:** Linux · Bash · multithreading and processes in C · client-server and sockets
+- **Engineering:** Git & GitHub · Maven · CMake · OOP · UML · software development lifecycle
 
 ---
 
