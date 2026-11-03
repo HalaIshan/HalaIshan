@@ -31,7 +31,6 @@ I love learning and understanding how things work from the inside, so during my 
 | [**Robot Path Planning – RRT / RRT\***](https://github.com/HalaIshan/rrt-path-planning) | Interactive path planner: draw obstacles, pick start and goal, and watch RRT and RRT\* search for a path. | Python, NumPy, vedo |
 | [**Robot Arm Kinematics**](https://github.com/HalaIshan/robot-arm-kinematics) | Forward and inverse kinematics for a multi-link arm, comparing Jacobian-transpose, Gauss-Newton, and damped least squares. | Python, NumPy, vedo |
 | [**Optimization Visualizer**](https://github.com/HalaIshan/optimization-visualizer) | Interactive 3D comparison of gradient descent and Newton's method, with line search and numerical derivatives. | Python, NumPy, vedo |
-| [**Soft-Body Simulation**](https://github.com/HalaIshan/soft-body-simulation) | Interactive mesh editor for soft-body simulation: pin and drag vertices in 2D and 3D, then minimize the mesh energy. | Python, NumPy, vedo |
 
 ### AI & Software Engineering
 | Project | What it is | Tech |
