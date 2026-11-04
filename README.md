@@ -36,7 +36,7 @@ I love learning and understanding how things work from the inside, so during my 
 ### AI & Software Engineering
 | Project | What it is | Tech |
 |---|---|---|
-| **Hate Speech Detection – Research Project** | Fine-tuned 3 RoBERTa models on 3 social-media datasets (54K samples) and measured how well they generalize across datasets – 9 training runs, 27 evaluations. | Python, Hugging Face Transformers |
+| [**Hate Speech Detection – Research Project**](https://github.com/HalaIshan/hate-speech-detection) | Fine-tuned 3 RoBERTa models on 3 social-media datasets (54K samples) and measured how well they generalize across datasets – 9 training runs, 27 evaluations. | Python, Hugging Face Transformers |
 | **Cinema Management System** | Team project (6 students): client-server desktop app for booking seats, buying tickets, and managing a cinema chain by role. | Java, JavaFX, Hibernate, Sockets, Maven |
 
 ---
