@@ -27,7 +27,7 @@ I love learning and understanding how things work from the inside, so during my 
 | Project | What it is | Tech |
 |---|---|---|
 | [**Hate Speech Detection – Research Project**](https://github.com/HalaIshan/hate-speech-detection) | Fine-tuned 3 RoBERTa models on 3 social-media datasets (54K samples) and measured how well they generalize across datasets – 9 training runs, 27 evaluations. | Python, Hugging Face Transformers |
-| [**Cybersecurity Attacks – Data Pipeline**](https://github.com/HalaIshan/cyber-attacks-data-pipeline) | End-to-end analysis of 40K cybersecurity incidents: statistics, anomaly detection, clustering, and ML models. Course grade: 100. | Python, pandas, scikit-learn, CatBoost |
+| [**Cybersecurity Attacks – Data Pipeline**](https://github.com/HalaIshan/cyber-attacks-data-pipeline) | End-to-end analysis of 40K cybersecurity incidents: statistics, anomaly detection, clustering, and ML models. | Python, pandas, scikit-learn, CatBoost |
 
 ### Computer Graphics
 | Project | What it is | Tech |
